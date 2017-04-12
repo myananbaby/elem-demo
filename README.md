@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # seller
 
 > vue app
@@ -25,3 +26,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# elem-demo
+>>>>>>> 3cc775e0b0a3c304f58177d1bfdaf60b375678ce
